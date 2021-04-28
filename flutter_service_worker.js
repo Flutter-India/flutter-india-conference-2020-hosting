@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "78bb2ff49d76f777a3495a3790197fb2",
-"index.html": "5beee9670edd40b9aa72fa9d1b93e32b",
-"/": "5beee9670edd40b9aa72fa9d1b93e32b",
-"main.dart.js": "d7de3d09ddca7a81415c3c547bd99c9a",
+"index.html": "9a0c65a6ae645b37cbd471f4e8f2891f",
+"/": "9a0c65a6ae645b37cbd471f4e8f2891f",
+"main.dart.js": "5f87d0a46f7bc560613a281df1610ac9",
 "favicon.png": "5a2d464ca4020987f2335ef4fde0065c",
 "icons/Icon-192.png": "562bdf2ff9ecf61b44b6cb7d06e5d285",
 "icons/Icon-512.png": "783919c738a517b4e76812066cb4a4c6",
@@ -42,7 +42,7 @@ const RESOURCES = {
 "assets/assets/Images/cover_Images/cover_image.png": "6b1231ef486a2c8e621bbb2a318326f8",
 "assets/assets/Images/cover_Images/cover_image_1.png": "65106e4b7c36dafde056c9e843a43890",
 "assets/assets/Images/cover_Images/Twitter_Cover.png": "de1200bd964590ca64731bcce6767baf",
-"assets/assets/json/speakers.json": "9ea68a0494f2cd17465c7305dec5550c",
+"assets/assets/json/speakers.json": "e2955e2e93fd0b811b80ddd271cd5b72",
 "assets/assets/json/organizers.json": "debabeddc2468c09c14a7e25df7a3c7f",
 "assets/assets/fonts/rockybilly.ttf": "9cd9dc4ce0f4a618fb244aecea70788a",
 "assets/assets/fonts/ProductSans.ttf": "d41d8cd98f00b204e9800998ecf8427e"
